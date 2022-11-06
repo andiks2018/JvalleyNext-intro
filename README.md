@@ -18,6 +18,8 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
@@ -32,3 +34,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+![image](https://user-images.githubusercontent.com/78794419/200148384-0768f49b-c840-4ccf-92ae-d0d928051919.png)
+
+![image](https://user-images.githubusercontent.com/78794419/200148389-df797cfe-2af5-4f20-b947-d663ece80e67.png)
+
+![image](https://user-images.githubusercontent.com/78794419/200148393-7ce87ce8-5d39-4214-ad40-a6118a7c13e0.png)
+
+![image](https://user-images.githubusercontent.com/78794419/200148397-b0643bdd-ec42-4957-84af-d955551a5799.png)
+
+![image](https://user-images.githubusercontent.com/78794419/200148351-2663663e-5af9-40bf-b5c3-940cf525c205.png)
+
+https://www.showwcase.com/show/18116/next-js
+
+https://www.youtube.com/watch?v=jHf2JjmGrkI
